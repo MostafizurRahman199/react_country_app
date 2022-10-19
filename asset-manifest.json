@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react_country_app.git/static/css/main.db8a9169.css",
-    "main.js": "/react_country_app.git/static/js/main.af9b7b61.js",
-    "static/js/787.1f926796.chunk.js": "/react_country_app.git/static/js/787.1f926796.chunk.js",
-    "static/media/logo.svg": "/react_country_app.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react_country_app.git/index.html",
-    "main.db8a9169.css.map": "/react_country_app.git/static/css/main.db8a9169.css.map",
-    "main.af9b7b61.js.map": "/react_country_app.git/static/js/main.af9b7b61.js.map",
-    "787.1f926796.chunk.js.map": "/react_country_app.git/static/js/787.1f926796.chunk.js.map"
+    "main.css": "/react_country_app/static/css/main.db8a9169.css",
+    "main.js": "/react_country_app/static/js/main.5055ac07.js",
+    "static/js/787.1f926796.chunk.js": "/react_country_app/static/js/787.1f926796.chunk.js",
+    "static/media/logo.svg": "/react_country_app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react_country_app/index.html",
+    "main.db8a9169.css.map": "/react_country_app/static/css/main.db8a9169.css.map",
+    "main.5055ac07.js.map": "/react_country_app/static/js/main.5055ac07.js.map",
+    "787.1f926796.chunk.js.map": "/react_country_app/static/js/787.1f926796.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db8a9169.css",
-    "static/js/main.af9b7b61.js"
+    "static/js/main.5055ac07.js"
   ]
 }
